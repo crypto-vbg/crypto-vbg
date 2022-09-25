@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @crypto-vbg
+- 👋 Hi, I’m @Vijith BG
 - 👀 I’m interested in Machine learning and Data Science
 - 🌱 I’m currently learning Machine Intelligence
 - 💞️ I’m looking to collaborate on any projects related to Data Science
